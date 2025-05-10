@@ -1,0 +1,4 @@
+Esse é um pull request feita pela conta LucasNotz, se voce quiser verificar, foi feito
+ um pull request pela conta LucaLLM-bit no repositorio presente na conta LucasNotz,
+ basta clicar em insights e vai estar presente o merge. Estou fazendo nesse outro
+ repositório, a fim de ter em ambas as contas a persença de um merge/pull request.
